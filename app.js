@@ -12,3 +12,8 @@ const Multiplicar = (x,y) =>
 {
     return x * y;
 }
+
+const Dividir = (x,y) =>
+{
+    return x / y;
+}
